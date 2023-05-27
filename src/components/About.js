@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function About() {
     return (
         <section id="about">
@@ -9,9 +11,7 @@ export default function About() {
                         apps.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                        laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                        Laborum, voluptas natus?
+                        This is a part of the webpage.
                     </p>
                     <div className="flex justify-center">
                         <a
