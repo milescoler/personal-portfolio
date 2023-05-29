@@ -11,7 +11,11 @@ export default function About() {
                         apps.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        This is a part of the webpage.
+                    As a Computer Science / Data Science student at Santa Barbara City College, I am always improving my abilities 
+                    as a programmer and critical thinker. I have taken classes in Python, Data Management, Java, HTML, and C++. 
+                    Building these strong foundations, I hope to find opportunities that will challenge and help me to grow. 
+                    My dream is to create new ideas in the Artificial Intelligence and Augmented Reality fields. I hope to be 
+                    a lifelong learner, finding new opportunities to become something great.
                     </p>
                     <div className="flex justify-center">
                         <a
